@@ -1,0 +1,52 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    help me check typo errors
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    check the history in case of regretion
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    having versions automatically saved only keep the newest version of a file, not a whole history.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Git is designed for programmers and developers to maintain the whole directory of files.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    type git log and git diff in git bash
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    don't need to heisitate whether to modify.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    maintain my project
+
+从长远来看，能轻松访问文件的整个历史记录将如何提高编程者的效率？
+	能够保存历史文档，回顾之前的工作，检查错误，写更新日志。
+
+你认为，手动选择何时创建提交（像在 Git 中做的那样）与自动保存版本（如 Google Docs 所做的那样）各有何优缺点？
+	可以根据逻辑更改进行版本控制。
+
+为何你认为一些版本控制系统（例如 Git）允许在一次提交中保存多个文件，而其他系统（例如 Google Docs）单独对待每个文件？
+	便于追踪多个文件
+
+如何使用命令 git log 和 git diff 来查看文件的历史记录？
+	git log
+	git diff id1 id2
+
+使用版本控制，如何让你更有信心进行有可能会造成破坏的更改？
+	可以使用git checkout 恢复到之前的版本
+
+现在你已设置了工作空间，你想尝试使用 Git 来做些什么？
+	进行版本控制
